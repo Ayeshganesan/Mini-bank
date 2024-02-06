@@ -61,11 +61,6 @@
                 <label>Current balance:</label>
                 <input type="text" id="CurrentBalanceTxt" runat="server" >
                 <br>
-
-                
-
-                
-
                 <input type="submit" id="Submitbtn" runat="server" onserverclick="SubmitClick">
 
                 
